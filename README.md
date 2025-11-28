@@ -2,4 +2,4 @@
 
 ---
 
-![Breast Cancer Classification](./Titanic.png)
+![Titanic-Dataset-EDA](./Titanic.png)
